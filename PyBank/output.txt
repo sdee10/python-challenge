@@ -1,0 +1,7 @@
+Financial Analysis
+....................................................................................
+Total Month: 86
+Total Profit and Loss: 38382578
+Average change is: -2316
+The greatest increase is: Feb-2012 1170593
+The greatest decrease is: Sep-2013 -1196225
